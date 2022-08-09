@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "210120571300",
+    "project_id": "age-detective",
+    "storage_bucket": "age-detective.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210120571300:android:cca2d0913fccf89e4d2931",
+        "android_client_info": {
+          "package_name": "technologies.akkas.ageguess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210120571300-9n1hda7fv6p4msbdnqgra694jjkddu16.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "technologies.akkas.ageguess",
+            "certificate_hash": "fcce71f3a48445b6145e520d767feab64367a6aa"
+          }
+        },
+        {
+          "client_id": "210120571300-npt0r5papbg3bhnf9qqh3s639g646209.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "technologies.akkas.ageguess",
+            "certificate_hash": "e9aaedf4b7cc66ec7a42262dbc60690176eb4063"
+          }
+        },
+        {
+          "client_id": "210120571300-7jq5h469p10a65hfvu6fvqhahcailjkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmpA-p5KBbVlryO2BTj6FnAm2x-x2SpGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210120571300-7jq5h469p10a65hfvu6fvqhahcailjkc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "210120571300-qot7q81vrhk9o5s4f7hf2b9hccajieq2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.akkas.AgeGuessing"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

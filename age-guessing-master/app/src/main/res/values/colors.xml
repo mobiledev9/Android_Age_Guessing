@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#39b54a</color>
+    <color name="colorPrimaryDark">#39b54a</color>
+    <color name="colorAccent">#39b54a</color>
+
+
+    <color name="black">#1a1b1c</color>
+    <color name="white">#ffffff</color>
+    <color name="orange">#f89521</color>
+    <color name="cardback">#ecf6ec</color>
+    <color name="green">#39b54a</color>
+    <color name="light_green">#8dcc91</color>
+
+    <color name="facebook_background">#5600C4</color>
+    <color name="google_background">#DE002D</color>
+
+</resources>

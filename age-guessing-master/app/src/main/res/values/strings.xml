@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Ducker Detective</string>
+    <string name="welcome_to">Welcome To</string>
+    <string name="swipe_to_startup">Swipe To Startup</string>
+    <string name="please_guess_person_s_age">Please Guess Person\'s Age</string>
+    <string name="what_is_your_age">Estimated Age</string>
+    <string name="enter_day">Enter Day</string>
+    <string name="enter_month">Enter Month</string>
+    <string name="the_correct_birthday_should_be">The correct Birthday should be:</string>
+    <string name="press_y_for_yes_or_n_for_not">Press y for Yes or n for Not</string>
+    <string name="possible_birthdays">POSSIBLE BIRTHDAYS</string>
+    <string name="enter_your_year_of_birth">Enter a year of birth from the list</string>
+    <string name="please_enter_expected_birthday">Please Enter Expected Birthday</string>
+    <string name="enter_expected_year">Enter Expected Year</string>
+    <string name="please_enter_valid">Please enter valid input</string>
+    <string name="entermonth_between">Please enter month between 1 to 12</string>
+    <string name="enter_day_between">Please enter day between 1 to 31</string>
+    <string name="facebook">FACEBOOK</string>
+    <string name="google_plus">GOOGLE PLUS</string>
+    <string name="email_sign_in">Email Sign In</string>
+    <string name="email_sign_up">Email Sign Up</string>
+
+    <string name="signup">Or\nSignup</string>
+    <string name="orsignin">Or\nSignin</string>
+
+    <string name="signin_with">Signin With</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="signin">Signin</string>
+    <string name="username">Username</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="signup_single">SIGNUP</string>
+    <string name="signupwith">SignUp With</string>
+
+    <string name="facebook_app_id">476851693316991</string>
+    <string name="fb_login_protocol_scheme">fb476851693316991</string>
+    <string name="pay">Pay</string>
+
+    <string name="admob_app_id">ca-app-pub-1917059078901544~9319589658</string>
+<!--    <string name="admob_banner_id">ca-app-pub-1917059078901544/5554770310</string>-->
+    <string name="admob_banner_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_inter_id">ca-app-pub-1917059078901544/6813502351</string>
+</resources>
